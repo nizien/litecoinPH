@@ -1,0 +1,2 @@
+# litecoinPH
+LITECOIN MINER
